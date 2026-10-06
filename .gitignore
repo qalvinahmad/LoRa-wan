@@ -1,0 +1,23 @@
+# Build output
+build/
+bin/
+.pio/
+.vscode/
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local secrets / personal notes
+.env
+*.pem
+*.key
+
+# Arduino CLI local cache
+.arduino/
